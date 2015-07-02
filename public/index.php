@@ -65,11 +65,6 @@
         </a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="./">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
-        <li class="visible-xs small-social"><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-google-plus"></i></a></li>
-      </ul>
         <ul class="nav navbar-nav navbar-right social hidden-xs">
           <li><a target="_blank" href="https://www.facebook.com/sharer.php?u=<?php echo urlencode($meta['url']); ?>"><i class="fa fa-facebook-square"></i></a></li>
           <li><a target="_blank" href="https://twitter.com/intent/tweet?url=<?php echo urlencode($meta['url']); ?>&via=<?php print urlencode($meta['twitter']); ?>&text=<?php print urlencode($meta['title']); ?>"><i class="fa fa-twitter"></i></a></li>
@@ -82,13 +77,16 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 header">
-      <h1 id="pagetitle">Meet the area's 2015 top high school athletes</h1>
+      <div class="col-sm-6 col-lg-8 header">
+      <h1 id="pagetitle">Meet the area's 2014-2015 top high school athletes</h1>
       <p class="author">Compiled by Rick Cantu and Danny Davis. Presentation by Paighten Harkins.</p>
       <p>The final buzzer has sounded for this year's Austin-area high school sports, and you know what that means. Every year the Statesman's sports staff compiles a list of top athletes, a who's-who in the region's high school sports. Let's relive the season and see who made the cut:</p>
-      <p><a href="" target="_blank">Read more about this story &gt; </a>
 
       </div>
+      <div class="col-sm-6 col-lg-4">
+        <img class="img-responsive" style="margin-top: 12px;" src="assets/collage1.jpg">
+      </div>
+
     </div>
 
     <div class="row">
@@ -102,6 +100,7 @@
           <li>Number of sophomores: <strong>1</strong></li>
           <li>Sports represented: <strong>Baseball, basketball, football, softball, track & field, volleyball.</strong></li>
         </ul>
+      <p><a href="" target="_blank">Read more about the top athletes &gt; </a>
       </div>
       <div class="col-lg-8 hidden-xs">
         <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 65%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/grid/collection/top-10-high-school-athletes/column/school/column/year/image/image/description/accomplishment/slice/0/10" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div> </div>
