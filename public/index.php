@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <?php
   $meta = array(
-    "title" => "2015 Statesman Social Media Awards | Statesman.com",
-    "description" => "The Austin American-Statesman is honoring the best in social media in Central Texas. Use our online nomination form to nominate your favorite person, company or group for a Statesman Social Media Award.",
-    "thumbnail" => "http://projects.statesman.com/then-and-now/paramount/assets/share.png", // needs update
+    "title" => "Top 50 High School Athletes | Statesman.com",
+    "description" => "The final buzzer has sounded for this year's Austin-area high school sports. Let's relive the season with a look at this year's Top 50 High School Athletes.",
+    "thumbnail" => "http://projects.statesman.com/sports/high-school-top-50/assets/share.png", // needs update
     "shortcut_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_5126cb2068bd43d1ab4e17660ac48255.ico",
     "apple_touch_icon" => "http://media.cmgdigital.com/shared/theme-assets/242014/www.statesman.com_fa2d2d6e73614535b997734c7e7d2287.png",
-    "url" => "http://projects.statesman.com/ssma/",
+    "url" => "http://projects.statesman.com/sports/high-school-top-50/",
     "twitter" => "statesman"
   );
 ?>
@@ -84,7 +84,7 @@
     <div class="row">
       <div class="col-lg-12 header">
       <h1 id="pagetitle">Meet the area's 2015 top high school athletes</h1>
-
+      <p>By XXX and Paighten Harkins</p>
       <p>The final buzzer has sounded for this year's Austin-area high school sports, and you know what that means. Every year the Statesman's sports staff compiles a list of top athletes, a who's-who in the region's high school sports.</p>
       <p>Let's relive the season and see who made the cut:</p>
       </div>
