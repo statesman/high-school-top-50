@@ -88,10 +88,11 @@
       </div>
 
     </div>
-
+<hr>
     <div class="row">
       <div class="col-lg-4">
         <h3>Top 10 high school athletes</h3>
+        <p>Scroll through the list for the top 10.</p>
         <p>Ranging from 10 different area schools, these athletes are the best in the region. Here's how the Top 10 broke down:</p>
         <ul>
           <li>Schools represented: <strong>10</strong></li>
