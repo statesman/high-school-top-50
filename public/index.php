@@ -78,7 +78,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-6 col-lg-8 header">
-      <h1 id="pagetitle">Meet the area's 2014-2015 top high school athletes</h1>
+      <h1 id="pagetitle">Meet the area's 2014-2015 top 50 high school athletes</h1>
       <p class="author">Compiled by Rick Cantu and Danny Davis. Presentation by Paighten Harkins.</p>
       <p>The final buzzer has sounded for this year's Austin-area high school sports, and you know what that means. Every year the Statesman's sports staff compiles a list of top athletes, a who's-who in the region's high school sports. Let's relive the season and see who made the cut:</p>
 
