@@ -102,25 +102,28 @@
           <li>Sports represented: Baseball, basketball, football, softball, track & field, volleyball</li>
         </ul>
       </div>
-      <div class="col-lg-8"> <!--   -->
-        <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 50%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/grid/collection/top-10-high-school-athletes/column/school/column/year/image/image/description/accomplishment/slice/0/10" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div> </div>
+      <div class="col-lg-8 hidden-xs">
+        <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 65%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/grid/collection/top-10-high-school-athletes/column/school/column/year/image/image/description/accomplishment/slice/0/10" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div> </div>
+      </div>
+      <div class="col-lg-8 visible-xs">
+        <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 200%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/grid/collection/top-10-high-school-athletes/column/school/column/year/image/image/description/accomplishment/slice/0/10" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div> </div>
       </div>
     </div>
 <hr>
     <div class="row">
       <div class="col-sm-6 col-lg-8">
         <div class="row">
-          <div class="col-sm-6 col-lg-5">
-            <h3>Top 50 athletes by class:</h3>
+          <div class="col-xs-12 col-lg-5">
+            <h3>Top 50 athletes by class</h3>
             <p>While last year's group of top athletes included more seniors and evened out their numbers with two freshmen, nine juniors and four sophomores, this year's class was made up entirely of seniors, juniors and sophomores.</p>
           </div>
-          <div class="col-sm-6 col-lg-7">
+          <div class="col-xs-12 col-lg-7">
             <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 100%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/donutchart/collection/top-high-school-athletes-11-50/collection/top-10-high-school-athletes/distribution/year" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div></div>
           </div>
         </div>
 <hr>
         <div class="row">
-          <div class="col-sm-6 col-lg-5">
+          <div class="col-xs-12 col-lg-5">
             <h3>Where did they come from?</h3>
 
             <p>While all the athletes in this list came from Austin area schools, some schools contributed more top picks than others. Here's a breakdown:</p>
@@ -134,9 +137,9 @@
 
             <p>How did your school fare? Find them on the map to see how many students they had on the list.</p>
           </div>
-          <div class="col-sm-6 col-lg-7">
+          <div class="col-xs-12 col-lg-7">
 
-            <iframe src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1ZOPslhK0_-qesnwMYatbCzu4y73xOn2u7Y6jFH9q&amp;viz=MAP&amp;h=false&amp;lat=30.419031138174873&amp;lng=-97.62736077746735&amp;t=1&amp;z=9&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG" width="450" height="300" frameborder="no" scrolling="no"></iframe>
+            <iframe src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1ZOPslhK0_-qesnwMYatbCzu4y73xOn2u7Y6jFH9q&amp;viz=MAP&amp;h=false&amp;lat=30.419031138174873&amp;lng=-97.62736077746735&amp;t=1&amp;z=9&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
           </div>
           <div class="col-lg-12">
             <h3>Can't get enough of this year's class of top area athletes? Check out this <a href="http://www.statesman.com/gallery/sports/top-50-high-school-athletes-070515/gCTdz/">gallery</a>.</h3>
