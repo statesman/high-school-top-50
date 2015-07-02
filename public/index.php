@@ -84,9 +84,10 @@
     <div class="row">
       <div class="col-lg-12 header">
       <h1 id="pagetitle">Meet the area's 2015 top high school athletes</h1>
-      <p>By XXX and Paighten Harkins</p>
-      <p>The final buzzer has sounded for this year's Austin-area high school sports, and you know what that means. Every year the Statesman's sports staff compiles a list of top athletes, a who's-who in the region's high school sports.</p>
-      <p>Let's relive the season and see who made the cut:</p>
+      <p class="author">Compiled by Rick Cantu and Danny Davis. Presentation by Paighten Harkins.</p>
+      <p>The final buzzer has sounded for this year's Austin-area high school sports, and you know what that means. Every year the Statesman's sports staff compiles a list of top athletes, a who's-who in the region's high school sports. Let's relive the season and see who made the cut:</p>
+      <p><a href="" target="_blank">Read more about this story &gt; </a>
+
       </div>
     </div>
 
@@ -95,11 +96,11 @@
         <h3>Top 10 high school athletes</h3>
         <p>Ranging from 10 different area schools, these athletes are the best in the region. Here's how the Top 10 broke down:</p>
         <ul>
-          <li>Schools represented: 10</li>
-          <li>Number of seniors: 8</li>
-          <li>Number of juniors: 1</li>
-          <li>Number of sophomores: 1</li>
-          <li>Sports represented: Baseball, basketball, football, softball, track & field, volleyball</li>
+          <li>Schools represented: <strong>10</strong></li>
+          <li>Number of seniors: <strong>8</strong></li>
+          <li>Number of juniors: <strong>1</strong></li>
+          <li>Number of sophomores: <strong>1</strong></li>
+          <li>Sports represented: <strong>Baseball, basketball, football, softball, track & field, volleyball.</strong></li>
         </ul>
       </div>
       <div class="col-lg-8 hidden-xs">
@@ -126,13 +127,13 @@
           <div class="col-xs-12 col-lg-5">
             <h3>Where did they come from?</h3>
 
-            <p>While all the athletes in this list came from Austin area schools, some schools contributed more top picks than others. Here's a breakdown:</p>
+            <p>While all the athletes in the Top 50 came from Austin area schools, some schools contributed more top picks than others. Here's a breakdown:</p>
 
             <ul>
-              <li>Schools represented: 37</li>
-              <li>Schools with three students in the Top 50: 3</li>
-              <li>Schools with two students inthe Top 50: 6</li>
-              <li>Schools with one students in the Top 50: 28</li>
+              <li>Schools represented: <strong>37</strong></li>
+              <li>Schools with three students: <strong>3</strong></li>
+              <li>Schools with two students: <strong>6</strong></li>
+              <li>Schools with one student: <strong>28</strong></li>
             </ul>
 
             <p>How did your school fare? Find them on the map to see how many students they had on the list.</p>
