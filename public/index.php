@@ -214,7 +214,93 @@
 
         <p>Even though these athletes didn't make the top ten, they are still in a league of their own. The following students make up the rest of our Top 50 and are arranged in alphabetical order:
  </p>
-        <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 250%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/list/collection/top-high-school-athletes-11-50/column/school/slice/0/50" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div></div>
+        <div class="hidden-xs" style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 250%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/list/collection/top-high-school-athletes-11-50/column/school/slice/0/50" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div></div>
+
+        <div class="visible-xs">
+<h4>Jarrett Allen, jr., St. Stephen’s</h4>
+<p>All-Centex boys hoops MVP tallied 21.4 points, 13.3 rebounds per game for SPC champs.</p>
+<h4>Victor Bailey Jr., soph., McNeil</h4>
+<p>Averaged 15.1 points, seven rebounds per game for District 13-6A champion.</p>
+<h4>Ryan Becker, jr., Marble Falls</h4>
+<p>All-district offensive lineman won a bronze medal in Class 5A discus.</p>
+<h4>Tristen Brunson, sr., Florence</h4>
+<p>Four-year state qualifier posted a second-place finish in her Class 3A tennis finale.</p>
+<h4>Madie Boreman, jr., Rouse</h4>
+<p>Area’s top athlete in 2013 won three Class 6A-Region II titles in cross country and track.</p>
+<h4>Fernanda Contreras, sr., Westlake</h4>
+<p>Vanderbilt-bound tennis player won a Class 6A singles championship in May.</p>
+<h4>Mulbah Car, jr., Reagan</h4>
+<p>Led Raiders with 1,946 yards rushing and was an all-district choice as a D-lineman.</p>
+<h4>Terrell Davidson, sr., LBJ</h4>
+<p>All-district pick in football and basketball contributed to two playoff runs.</p>
+<h4>Japreece Dean, sr., Vista Ridge</h4>
+<p>Three-time All-Centex pick averaged 18 points per game for Class 5A semifinalist.</p>
+<h4>J.K. Dobbins, soph., La Grange</h4>
+<p>State qualifier in the Class 4A 100 meters also totaled 43 touchdowns in the fall.</p>
+<h4>Jake Doggett, soph., Hutto</h4>
+<p>District 17-5A medalist in golf also was an all-district infielder this past spring.</p>
+<h4>Cooper Dossey, jr., Vandegrift</h4>
+<p>Took home an individual silver medal and a team gold from the Class 5A golf meet.</p>
+<h4>Victoria Edwards, soph., Westlake</h4>
+<p>Swam to four medals (three gold, one silver) as Chaps won Class 6A state title.</p>
+<h4>Ethan Fernea, jr., Dripping Springs
+</h4>
+<p>Third-team All-Centex DB also was honored as a first-team All-Centex outfielder.
+</p>
+<h4>Meagan Gray, sr., Hays</h4>
+<p>After winning silver, bronze medals in 2013, Gray won Class 6A pole vault in May.</p>
+<h4>Morgyn Greer, jr., Dripping Springs</h4>
+<p>Area’s top volleyball player helped Tigers reach the Class 5A state-title match.</p>
+<h4>Jordan Hafley, sr., Thorndale</h4>
+<p>All-Centex basketball honoree was track standout and all-district pick at two football positions.</p>
+<h4>Connor Hamilton, sr., Cedar Creek</h4>
+<p>Eagles quarterback was honored as an all-district punter and catcher.</p>
+<h4>David Hamilton, jr., San Marcos</h4>
+<p>Austin area’s top shortstop rushed for 2,000 yards as Rattlers’ quarterback.</p>
+<h4>Vondell Hargrove, sr., Travis</h4>
+<p>Rebels’ all-district quarterback was a state qualifier in three track events.</p>
+<h4>Collin Hinson, sr., Round Rock</h4>
+<p>Regional discus thrower also shined as Dragons’ quarterback, punter.</p>
+<h4>Luke Hodsden, jr., Dripping Springs</h4>
+<p>Wrestler was 52-0 this past season, including win in Class 5A 182-pound title match.</p>
+<h4>Jake Holmes, sr., McCallum</h4>
+<p>All-Central Texas basketball honoree was District 26-5A MVP in baseball.</p>
+<h4>Riley Jacops, soph., Vandegrift</h4>
+<p>Took home the 120-pound championship from Class 5A wrestling meet.</p>
+<h4>Sophie McCannon, soph., Marble Fall Faith</h4>
+<p>Won four gold medals in TAPPS 3A cross country and track races.</p>
+<h4>Darren Medrano, sr., Georgetown</h4>
+<p>Earned UIL bronze medals during cross country, track and field seasons.</p>
+<h4>Madison Miles, sr., San Marcos</h4>
+<p>District 27-5A defensive MVP in basketball was state qualifier in long jump.</p>
+<h4>Moises Montanez, sr., Bartlett</h4>
+<p>Two-time track champion ran cross country, played football, basketball, baseball.</p>
+<h4>McKenzie Oliver, sr., Vista Ridge</h4>
+<p>Topped All-Centex girls soccer honorees after scoring 40 goals as senior.</p>
+<h4>Chris Paddack, sr., Cedar Park</h4>
+<p>Marlins-drafted pitcher was 11-0 with 134 strikeouts, 0.46 ERA.</p>
+<h4>Marissa Padron, sr., Connally</h4>
+<p>Led Cougars with all-district nods in volleyball, basketball and softball.</p>
+<h4>Kaitlyn Papp, soph., Lake Travis</h4>
+<p>Placed second at Class 6A golf meet as Lady Cavs won a state championship.</p>
+<h4>T.J. Raguse, sr., Georgetown</h4>
+<p>First baseman batted .523 with 30 RBIs, 38 steals for Class 5A runner-up.</p>
+<h4>Chelsea Seggern, jr., Thrall</h4>
+<p>Tennessee-bound softball star was her district’s offensive MVP in softball, volleyball.</p>
+<h4>Brendan Soto, sr., East View
+</h4>
+<p>All-district DB was area’s best goalkeeper during soccer team’s run to Class 5A title game.</p>
+<h4>Julie Tucker, soph., Jarrell</h4>
+<p>All-district volleyball pick averaged 14.4 points, 7.6 rebounds per game in hoops.</p>
+<h4>Caleb Vandergriff, sr., East View</h4>
+<p>Was All-Centex MVP after scoring nine goals, leading Class 5A state runner-up’s defense.</p>
+<h4>Daniel Viegra, soph., Hendrickson</h4>
+<p>Earned UIL state-meet berths in cross country and two track events.</p>
+<h4>Payton Walker, sr., Liberty Hill</h4>
+<p>Libero on Liberty Hill’s first state qualifier in volleyball also was an all-district catcher.</p>
+<h4>Angela Yu, sr., Westwood</h4>
+<p>All-district setter received District 13-6A co-defensive MVP award in soccer.</p>
+        </div>
       </div>
     </div>
 
