@@ -107,41 +107,51 @@
       </div>
       <div class="col-xs-12 visible-xs">
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/07/04/3d/79/RBB-Travis-Brannan_2.jpg">
         <h3>No. 1: Travis Brannan</h3>
         <h4>jr., Vandegrift</h4>
-        <p>Piled up 2,685 rushing yards, 42 TDs before competing at state in Class 5A long jump, triple jump. <a href="http://www.mystatesman.com/news/sports/high-school-football/vandegrifts-travis-brannan-tops-areas-prep-athlete/nmrWW/" target="_blank"> >> More on Brennan</a></p>
+        <p>Piled up 2,685 rushing yards, 42 TDs before competing at state in Class 5A long jump, triple jump. <a href="http://www.mystatesman.com/news/sports/high-school-football/vandegrifts-travis-brannan-tops-areas-prep-athlete/nmrWW/" target="_blank"> >> More on Brannan</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/07/03/3f/5a/DSC_0076.jpg">
         <h3>No. 2: Chris Roller</h3>
         <h4>sr., Lake Travis</h4>
         <p>Helped Lake Travis to district titles as an All-Central Texas first-team defensive back, outfielder. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-chris-roller-lake-tra/nmrN5/" target="_blank"> >> More on Roller</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/07/02/87/fd/asz-110414-prep-volley-9.jpg">
         <h3>No. 3: Lele Carter</h3>
         <h4>sr., Bastrop</h4>
         <p>Earned silver and bronze medals at state track meet and was all-district choice in volleyball, basketball. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-lele-carter-bastrop/nmqfp/" target="_blank"> >> More on Carter</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/30/f0/3f/SSS-Cedar-Park-Ennis-29.jpg">
         <h3>No. 4: Thomas Hutchings</h3>
         <h4>sr., Cedar Park</h4>
         <p>Austin area’s top football player rushed for 1,173 yards, recorded 173 tackles this past season. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-thomas-hutchings-ceda/nmphG/" target="_blank"> >> More on Hutchings</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/30/34/c3/MM_FacesOctober-13.jpg">
         <h3>No. 5: Brittany Adams</h3>
         <h4>sr., St. Stephen’s</h4>
         <p>Two-time All-Central Texas pick led school’s volleyball, basketball teams to SPC titles. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-brittany-andrews-st-s/nmpL8/" target="_blank"> >> More on Adams</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/29/bc/ed/rgz-TX-RELAYS-SAT-20.jpg">
         <h3>No. 6: Virginia Kerley</h3>
         <h4>soph., Taylor</h4>
         <p>Three-time track and field medalist also was a standout in volleyball, basketball. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-6-virginia-kerley-tay/nmngq/" target="_blank"> >> More on Kerley</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/28/61/e2/RRSP9200.jpg">
         <h3>No. 7: Marcus McWilliams</h3>
         <h4>sr., Pflugerville</h4>
         <p>All-district defensive back turned in one of nation’s top times in the 110-meter hurdles. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-marcus-mcwilliams-pfl/nmnRT/" target="_blank"> >> More on McWilliams</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/27/d2/8b/RRSP8639.jpg">
         <h3>No. 8: Jorden Russell</h3>
         <h4>sr., Vista Ridge</h4>
         <p>All-Centex softball MVP led team to Class 5A runner-up finish, posting 242 strikeouts, 37 RBIs. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-jorden-russell-vista-/nmnBs/" target="_blank"> >> More on Russell</a></p>
 
+        <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/26/46/b8/ULY6959111.jpg">
         <h3>No. 9: Lashann Higgs</h3>
         <h4>sr., Cedar Ridge</h4>
         <p>McDonald’s All-American averaged 27 points per game during basketball season. <a href="http://www.mystatesman.com/news/sports/high-school/athlete-of-the-year-finalist-lashann-higgs-cedar-r/nmmWB/" target="_blank"> >> More on Higgs</a></p>
+
 
         <img class="img-responsive" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/400/img/photos/2015/06/25/57/2a/jameson-houston.jpg">
         <h3>No. 10: Jameson Houston</h3>
