@@ -101,6 +101,7 @@
           <li>Number of sophomores: <strong>1</strong></li>
           <li>Sports represented: <strong>Baseball, basketball, football, softball, track & field, volleyball.</strong></li>
         </ul>
+        <p><a href="http://www.mystatesman.com/list/sports/high-school/athlete-year-finalists-2015/mMmk/"> >> More about the finalists</a></p>
       </div>
       <div class="col-lg-8 hidden-xs">
         <div style='display: inline-block; width: 100%;'><div style='position: relative; padding-bottom: 65%; padding-top:25px; height: 0;'><iframe src="//top-50-high-school-athletes.silk.co/s/embed/grid/collection/top-10-high-school-athletes/column/school/column/year/image/image/description/accomplishment/slice/0/10" style="border:0;position: absolute; top:0; left:0; width: 100%;height:100%;"></iframe></div> </div>
